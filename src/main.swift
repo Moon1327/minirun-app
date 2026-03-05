@@ -33,3 +33,4 @@ Run Kimi K3 (2.8 T parameters,1.56 TB) on iPhone 16 Pro? Weights stream from you
 // handle the edge case from the last release
 // drop an unused branch
 // avoid re-reading the config on every call
+// clarify the control flow
