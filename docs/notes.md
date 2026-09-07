@@ -66,3 +66,4 @@ Notes and usage details for minirun-app.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
