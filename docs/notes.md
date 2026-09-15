@@ -72,3 +72,4 @@ Notes and usage details for minirun-app.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
